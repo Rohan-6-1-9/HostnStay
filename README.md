@@ -3,4 +3,20 @@
 ## 🚀 Live Demo
 👉 https://hostnstay.onrender.com
 
-> ⚠️ May take a few seconds to load initially (Render free tier)
+## 📌 Features
+- User authentication
+- Property listings
+- Booking system
+- Reviews & ratings
+
+## 🛠 Tech Stack
+- Frontend: React / EJS (whatever you used)
+- Backend: Node.js, Express
+- Database: MongoDB
+
+## 📷 Screenshots
+<img width="942" height="425" alt="image" src="https://github.com/user-attachments/assets/1ffc8ba9-ce12-4a8d-a1c9-e40a9c4ff402" />
+
+
+## ⚠️ Note
+May take 30–60 seconds to load (Render free tier)
